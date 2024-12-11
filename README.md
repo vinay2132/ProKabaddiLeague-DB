@@ -65,4 +65,4 @@ Full SQL scripts can be found in the `SQLQueries` folder of this repository.
 ### Setting up the database:
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/vinay2132/ProKabaddiLeague-D)
